@@ -1,3 +1,2 @@
 int64 anchor_id
-string label_name
 float64 distance
