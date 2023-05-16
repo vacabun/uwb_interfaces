@@ -1,2 +1,2 @@
-int64 anchor_id
+int64 id
 float64 distance
