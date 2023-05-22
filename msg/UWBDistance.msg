@@ -1,2 +1,2 @@
-int64 id
+string id
 float64 distance
