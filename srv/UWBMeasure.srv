@@ -1,6 +1,6 @@
-uint64 cmd
-uint64 src
-uint64 dest
+int64 cmd
+int64 src
+int64 dest
 
 ---
-uint64 distance
+int64 distance
