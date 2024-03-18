@@ -1,6 +1,4 @@
-int64 cmd
-int64 src
-int64 dest
-
+int64 src_address
+int64 dest_address
 ---
-int64 distance
+UWBDistance uwb_distance
