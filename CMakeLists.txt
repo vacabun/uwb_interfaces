@@ -28,6 +28,9 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/UWBDistance.msg"
   "msg/UWBData.msg"
   "msg/UWBControl.msg"
+  "msg/GazeboPosition.msg"
+  "msg/UWBDistanceMatrix.msg"
+
   "srv/UWBMeasure.srv"
   "srv/GetPosition.srv"
   DEPENDENCIES geometry_msgs
